@@ -12,9 +12,8 @@
 
 ## Contact with me on
 
-* email : amer.fnj.2001@gmail.com
-* [![Gmail Badge](https://img.shields.io/badge/-mgorasiya1974@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashwanicena5@gmail.com)](mailto:mgorasiya1974@gmail.com)
-*<a href="mailto:amer.fnj.2001@gmail.com" target="blank"><img src="https://img.shields.io/badge/-amer.fnj.2001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amer.fnj.2001@gmail.com"/></a>
+* <a href="mailto:amer.fnj.2001@gmail.com" target="blank"><img src="https://img.shields.io/badge/-amer.fnj.2001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amer.fnj.2001@gmail.com"/></a>
+* * <a href="mailto:amer.fnj.2001@gmail.com" target="blank"><img src="https://img.shields.io/badge/-amer.fnj.2001@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:amer.fnj.2001@gmail.com"/></a>
 * <a href="https://www.instagram.com/amer__alnajjar" target="blank"> <img src="https://img.shields.io/badge/instagram%20@amer__alnajjar-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 * <a href="https://www.facebook.com/amer.alnajjar.5220" target="blank"><img src="https://img.shields.io/badge/facebook%20@amer.alnajjar.5220-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 * <a href="https://twitter.com/AmerFnj" target="blank"><img src="https://img.shields.io/badge/twitter%20@AmerFnj-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
