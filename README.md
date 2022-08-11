@@ -17,8 +17,6 @@
 * <a href="https://wa.me/972595214393"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 * <a href="https://www.facebook.com/amer.alnajjar.5220" target="blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 
-
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=amer-alnajjar&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
 ## Github Overview
 <img align="left" alt="amer-alnajjar Github Stats" src="https://github-readme-stats.vercel.app/api?username=amer-alnajjar&show_icons=true" />    &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amer-alnajjar)](https://github.com/anuraghazra/github-readme-stats) 
