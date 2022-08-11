@@ -1,17 +1,28 @@
-### Hi there, I'm Amer Alnajjar 👋❤️
+<h2>Hi there, I'm Amer Alnajjar . <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/> 
+
+<h3> 👨🏻‍💻 About Me </h3>
+
+* Front-End Developer (Angular).
+* IT student in my fourth year at college studying Applied Information Technology.
+* I have good skills in developing the front end of websites using HTML, CSS, JavaScript, and Bootstrap library.
+* I'm familiar with back-end coding using PHP language.
+* Seeking to use my skills in the work environment and develop new skills to become a competent developer.
+
+### Contact with me on
+
+* email : amer.fnj.2001@gmail.com
+* <a href="https://twitter.com/AmerFnj" target="blank"><img src="https://img.shields.io/badge/twitter-1877F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+* <a href="https://www.instagram.com/amer__alnajjar" target="blank"> <img src="https://img.shields.io/badge/Instagram-f24b5b?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+* <a href="https://wa.me/972595214393"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+* <a href="https://www.facebook.com/amer.alnajjar.5220" target="blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 
 
-<!--
-**amer-alnajjar/Amer-Alnajjar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=amer-alnajjar&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
+## Github Overview
+<img align="left" alt="amer-alnajjar Github Stats" src="https://github-readme-stats.vercel.app/api?username=amer-alnajjar&show_icons=true" />    &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amer-alnajjar)](https://github.com/anuraghazra/github-readme-stats) 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<img src="https://imgur.com/rilHVxA.png"/>
