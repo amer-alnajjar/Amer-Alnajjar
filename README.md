@@ -16,7 +16,7 @@
 * <a href="https://www.instagram.com/amer__alnajjar" target="blank"> <img src="https://img.shields.io/badge/instagram%20@amer__alnajjar-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 * <a href="https://www.facebook.com/amer.alnajjar.5220" target="blank"><img src="https://img.shields.io/badge/facebook%20@amer.alnajjar.5220-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 * <a href="https://twitter.com/AmerFnj" target="blank"><img src="https://img.shields.io/badge/twitter%20@AmerFnj-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-* <a href="https://wa.me/972595214393"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+* <a href="https://wa.me/972595214393" target="blank"><img src="https://img.shields.io/badge/WhatsApp%20@00972595214393-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 
 ## Github Overview
