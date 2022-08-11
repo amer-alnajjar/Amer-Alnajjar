@@ -10,7 +10,7 @@
 * I'm familiar with back-end coding using PHP language.
 * Seeking to use my skills in the work environment and develop new skills to become a competent developer.
 
-### Contact with me on
+## Contact with me on
 
 * email : amer.fnj.2001@gmail.com
 * <a href="https://www.instagram.com/amer__alnajjar" target="blank"> <img src="https://img.shields.io/badge/instagram%20@amer__alnajjar-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
